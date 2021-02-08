@@ -1,0 +1,6 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "java"
+    ],
+    "java.format.settings.url": "file:///home/jp/.formatSettings.xml",
+}
