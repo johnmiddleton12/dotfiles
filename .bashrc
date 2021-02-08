@@ -132,4 +132,4 @@ source ~/.commands.sh
 PS1="\e[1;36m\u@\h\e[0m - \[\033[32m\]\W\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 alias vi="nvim"
-
+alias py3="python3"
