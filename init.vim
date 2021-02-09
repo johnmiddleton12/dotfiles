@@ -9,6 +9,7 @@ Plug 'blueshirts/darcula'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'terryma/vim-multiple-cursors'
+Plug 'tpope/vim-surround'
 
 call plug#end()
 
