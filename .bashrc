@@ -133,3 +133,6 @@ PS1="\e[1;36m\u@\h\e[0m - \[\033[32m\]\W\[\033[33m\]\$(parse_git_branch)\[\033[0
 
 alias vi="nvim"
 alias py3="python3"
+alias cd2="cd ../../"
+alias giv="cd ../given"
+alias src="cd ../src"
