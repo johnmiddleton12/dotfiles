@@ -3,6 +3,10 @@
 function CNU() {
 	cd /mnt/c/Users/jpmaw/OneDrive\ -\ Christopher\ Newport\ University/4th\ Semester/Computer\ Science/
 }
+
+function MCC() {
+    cd /mnt/c/Users/jpmaw/OneDrive\ -\ Christopher\ Newport\ University/JAVAPlugins
+}
 	
 function iCloud() {
     cd /mnt/c/Users/jpmaw/iCloudDrive/iCloud~dk~simonbs~Scriptable/
